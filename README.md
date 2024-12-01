@@ -6,7 +6,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my softwar
 
 ## Projects  
 
-### 1. [Antonie Motors Mobile Application](https://github.com/username/project-repo](https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git)  
+### 1. [Antonie Motors Mobile Application](https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git)  
 The Antonie Motors Mobile Application simplifies business management for automotive service providers with tailored tools for Admins and Employees, secured via Role-Based Access Control (RBAC). Built using Kotlin in Android Studio (Iguana) and Firebase, it ensures efficient data storage and authentication.
 
 Key Features
