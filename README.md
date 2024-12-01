@@ -54,7 +54,7 @@ Build and Run: Use an emulator or device with API Level 27+ to explore features.
 
 
 
-### 2. [Antonie Motors Web Application](https://github.com/username/project-repo](https://github.com/Daniel-Antonie/AntonieMotors-XBCAD7319.git)  
+### 2. [Antonie Motors Web Application](https://github.com/Daniel-Antonie/AntonieMotors-XBCAD7319.git)  
 The Antonie Motors Web Application streamlines business operations and enhances customer experiences with Role-Based Access Control (RBAC). Built using ASP.NET Core MVC and Firebase, it offers specialized features for Admins and Customers.
 
 Key Features
@@ -109,7 +109,7 @@ Run the Application:
 Set the project as the startup project.
 Press Ctrl+F5 and navigate to http://localhost/ in your browser.
 
-### 3. [Gourmet Guru] (https://github.com/username/project-repo](https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git)  
+### 3. [Gourmet Guru] (https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git)  
 Gourmet Guru is an innovative Android application designed to help users save, manage, and explore recipes. It utilizes a custom-built API that provides access to a diverse database of over 160 recipes spanning 8 cultural cuisines.
 
 Key Features
